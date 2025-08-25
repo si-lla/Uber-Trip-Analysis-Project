@@ -71,7 +71,7 @@ Uber_Trip_Analysis_Project/
 
 
 ## 📥 **Download Power BI File**
-👉 [Click here to download the Power BI Dashboard (.pbix)](PowerBI/Uber_Trip_Analysis_Dashboards.pbix)
+👉[Click here to download the Power BI file](Uber_Trip_Analysis_Dashboards.pbix)
 
 ---
 
