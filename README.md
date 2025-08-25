@@ -43,24 +43,23 @@ Uber_Trip_Analysis_Project/
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## 📊 EDA Visualizations
+![Plot 1](outputs/plot1.png)
+![Plot 2](outputs/plot2.png)
+![Plot 3](outputs/plot3.png)
+![Plot 4](outputs/plot4.png)
+![Plot 5](outputs/plot5.png)
+![Plot 6](outputs/plot6.png)
+![Plot 7](outputs/plot7.png)
+![Plot 8](outputs/plot8.png)
+![Plot 9](outputs/plot9.png)
+![Plot 10](outputs/plot10.png)
+![Plot 11](outputs/plot11.png)
 
-![plot1](outputs/plot1.png)
-![plot2](outputs/plot2.png)
-![plot3](outputs/plot3.png)
-![plot4](outputs/plot4.png)
-![plot5](outputs/plot5.png)
-![plot6](outputs/plot6.png)
-![plot7](outputs/plot7.png)
-![plot8](outputs/plot8.png)
-![plot9](outputs/plot9.png)
-![plot10](outputs/plot10.png)
-![plot11](outputs/plot11.png)
-
-## 🖥 Dashboards
-![Dashboard1](dashboards/Dashboard1.png)
-![Dashboard2](dashboards/Dashboard2.png)
-![Dashboard3](dashboards/Dashboard3.png)
+## 📈 Dashboards
+![Dashboard 1](dashboards/Dashboard1.png)
+![Dashboard 2](dashboards/Dashboard2.png)
+![Dashboard 3](dashboards/Dashboard3.png)
 
 
 ## 📥 **Download Power BI File**
